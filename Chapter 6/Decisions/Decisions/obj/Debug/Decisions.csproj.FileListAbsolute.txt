@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 6\Decisions\Decisions\obj\Debug\Decisions.pdb

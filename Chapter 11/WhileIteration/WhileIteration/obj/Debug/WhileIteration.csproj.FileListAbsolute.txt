@@ -1,0 +1,6 @@
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\Manuel\Dropbox\Visual Studio 2015\Tutorials\MVA\Chapter 11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
